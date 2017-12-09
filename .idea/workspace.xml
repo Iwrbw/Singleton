@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b6aa079-213a-4533-8cf3-0327ac2cfeb7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ysf/HelloWorld.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -54,12 +55,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="singletonDemo5.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="singletonDemo5.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ysf/singletonDemo5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="220">
+              <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloWorld.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ysf/HelloWorld.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+              <folding>
+                <element signature="e#126#127#0" expanded="true" />
+                <element signature="e#178#179#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -80,32 +94,32 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1512831042545" expanded="true" signature="28258:28274" ph="..." />
-                <marker date="1512831042545" expanded="true" signature="28258:28292" ph="..." />
-                <marker date="1512831042545" expanded="true" signature="28258:28305" ph="..." />
-                <marker date="1512831042545" expanded="true" signature="28258:28320" ph="..." />
-                <marker date="1512831042545" expanded="true" signature="28355:29720" ph="..." />
-                <marker date="1512831042545" expanded="true" signature="28368:29705" ph="..." />
-                <marker date="1512831042545" expanded="true" signature="28419:28684" ph="..." />
-                <marker date="1512831042545" expanded="true" signature="28438:28669" ph="..." />
-                <marker date="1512831042545" expanded="true" signature="28471:28649" ph="..." />
-                <marker date="1512831042545" expanded="true" signature="28511:28615" ph="..." />
-                <marker date="1512831042545" expanded="true" signature="28532:28593" ph="..." />
-                <marker date="1512831042545" expanded="true" signature="28727:29033" ph="..." />
-                <marker date="1512831042545" expanded="true" signature="28746:29018" ph="..." />
-                <marker date="1512831042545" expanded="true" signature="28820:28998" ph="..." />
-                <marker date="1512831042545" expanded="true" signature="28860:28964" ph="..." />
-                <marker date="1512831042545" expanded="true" signature="28881:28942" ph="..." />
-                <marker date="1512831042545" expanded="true" signature="29068:29374" ph="..." />
-                <marker date="1512831042545" expanded="true" signature="29087:29359" ph="..." />
-                <marker date="1512831042545" expanded="true" signature="29161:29339" ph="..." />
-                <marker date="1512831042545" expanded="true" signature="29201:29305" ph="..." />
-                <marker date="1512831042545" expanded="true" signature="29222:29283" ph="..." />
-                <marker date="1512831042545" expanded="true" signature="29426:29691" ph="..." />
-                <marker date="1512831042545" expanded="true" signature="29445:29676" ph="..." />
-                <marker date="1512831042545" expanded="true" signature="29478:29656" ph="..." />
-                <marker date="1512831042545" expanded="true" signature="29518:29622" ph="..." />
-                <marker date="1512831042545" expanded="true" signature="29539:29600" ph="..." />
+                <marker date="1512831181124" expanded="true" signature="34957:34973" ph="..." />
+                <marker date="1512831181124" expanded="true" signature="34957:34991" ph="..." />
+                <marker date="1512831181124" expanded="true" signature="34957:35004" ph="..." />
+                <marker date="1512831181124" expanded="true" signature="34957:35019" ph="..." />
+                <marker date="1512831181124" expanded="true" signature="35054:36419" ph="..." />
+                <marker date="1512831181124" expanded="true" signature="35067:36404" ph="..." />
+                <marker date="1512831181124" expanded="true" signature="35118:35383" ph="..." />
+                <marker date="1512831181124" expanded="true" signature="35137:35368" ph="..." />
+                <marker date="1512831181124" expanded="true" signature="35170:35348" ph="..." />
+                <marker date="1512831181124" expanded="true" signature="35210:35314" ph="..." />
+                <marker date="1512831181124" expanded="true" signature="35231:35292" ph="..." />
+                <marker date="1512831181124" expanded="true" signature="35426:35732" ph="..." />
+                <marker date="1512831181124" expanded="true" signature="35445:35717" ph="..." />
+                <marker date="1512831181124" expanded="true" signature="35519:35697" ph="..." />
+                <marker date="1512831181124" expanded="true" signature="35559:35663" ph="..." />
+                <marker date="1512831181124" expanded="true" signature="35580:35641" ph="..." />
+                <marker date="1512831181124" expanded="true" signature="35767:36073" ph="..." />
+                <marker date="1512831181124" expanded="true" signature="35786:36058" ph="..." />
+                <marker date="1512831181124" expanded="true" signature="35860:36038" ph="..." />
+                <marker date="1512831181124" expanded="true" signature="35900:36004" ph="..." />
+                <marker date="1512831181124" expanded="true" signature="35921:35982" ph="..." />
+                <marker date="1512831181124" expanded="true" signature="36125:36390" ph="..." />
+                <marker date="1512831181124" expanded="true" signature="36144:36375" ph="..." />
+                <marker date="1512831181124" expanded="true" signature="36177:36355" ph="..." />
+                <marker date="1512831181124" expanded="true" signature="36217:36321" ph="..." />
+                <marker date="1512831181124" expanded="true" signature="36238:36299" ph="..." />
               </folding>
             </state>
           </provider>
@@ -116,8 +130,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -145,6 +159,7 @@
         <option value="$PROJECT_DIR$/src/com/ysf/singletonDemo4.java" />
         <option value="$PROJECT_DIR$/src/com/ysf/singletonDemo6.java" />
         <option value="$PROJECT_DIR$/src/com/ysf/singletonDemo5.java" />
+        <option value="$PROJECT_DIR$/src/com/ysf/HelloWorld.java" />
       </list>
     </option>
   </component>
@@ -395,7 +410,7 @@
       <option name="presentableId" value="Default" />
       <updated>1512720617240</updated>
       <workItem from="1512720625506" duration="2736000" />
-      <workItem from="1512829173162" duration="1817000" />
+      <workItem from="1512829173162" duration="1950000" />
     </task>
     <task id="LOCAL-00001" summary="singleton5,饿汉的另一种方式">
       <created>1512829950193</created>
@@ -418,11 +433,18 @@
       <option name="project" value="LOCAL" />
       <updated>1512830852211</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="分支测试">
+      <created>1512831058862</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1512831058862</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4553000" />
+    <option name="totallyTimeSpent" value="4686000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -465,7 +487,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="singleton5,饿汉的另一种方式" />
     <MESSAGE value="singletonDemo6.使用枚举的方法实现单例模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="singletonDemo6.使用枚举的方法实现单例模式" />
+    <MESSAGE value="分支测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="分支测试" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -550,41 +573,52 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1512831042545" expanded="true" signature="28258:28274" ph="..." />
-            <marker date="1512831042545" expanded="true" signature="28258:28292" ph="..." />
-            <marker date="1512831042545" expanded="true" signature="28258:28305" ph="..." />
-            <marker date="1512831042545" expanded="true" signature="28258:28320" ph="..." />
-            <marker date="1512831042545" expanded="true" signature="28355:29720" ph="..." />
-            <marker date="1512831042545" expanded="true" signature="28368:29705" ph="..." />
-            <marker date="1512831042545" expanded="true" signature="28419:28684" ph="..." />
-            <marker date="1512831042545" expanded="true" signature="28438:28669" ph="..." />
-            <marker date="1512831042545" expanded="true" signature="28471:28649" ph="..." />
-            <marker date="1512831042545" expanded="true" signature="28511:28615" ph="..." />
-            <marker date="1512831042545" expanded="true" signature="28532:28593" ph="..." />
-            <marker date="1512831042545" expanded="true" signature="28727:29033" ph="..." />
-            <marker date="1512831042545" expanded="true" signature="28746:29018" ph="..." />
-            <marker date="1512831042545" expanded="true" signature="28820:28998" ph="..." />
-            <marker date="1512831042545" expanded="true" signature="28860:28964" ph="..." />
-            <marker date="1512831042545" expanded="true" signature="28881:28942" ph="..." />
-            <marker date="1512831042545" expanded="true" signature="29068:29374" ph="..." />
-            <marker date="1512831042545" expanded="true" signature="29087:29359" ph="..." />
-            <marker date="1512831042545" expanded="true" signature="29161:29339" ph="..." />
-            <marker date="1512831042545" expanded="true" signature="29201:29305" ph="..." />
-            <marker date="1512831042545" expanded="true" signature="29222:29283" ph="..." />
-            <marker date="1512831042545" expanded="true" signature="29426:29691" ph="..." />
-            <marker date="1512831042545" expanded="true" signature="29445:29676" ph="..." />
-            <marker date="1512831042545" expanded="true" signature="29478:29656" ph="..." />
-            <marker date="1512831042545" expanded="true" signature="29518:29622" ph="..." />
-            <marker date="1512831042545" expanded="true" signature="29539:29600" ph="..." />
+            <marker date="1512831181124" expanded="true" signature="34957:34973" ph="..." />
+            <marker date="1512831181124" expanded="true" signature="34957:34991" ph="..." />
+            <marker date="1512831181124" expanded="true" signature="34957:35004" ph="..." />
+            <marker date="1512831181124" expanded="true" signature="34957:35019" ph="..." />
+            <marker date="1512831181124" expanded="true" signature="35054:36419" ph="..." />
+            <marker date="1512831181124" expanded="true" signature="35067:36404" ph="..." />
+            <marker date="1512831181124" expanded="true" signature="35118:35383" ph="..." />
+            <marker date="1512831181124" expanded="true" signature="35137:35368" ph="..." />
+            <marker date="1512831181124" expanded="true" signature="35170:35348" ph="..." />
+            <marker date="1512831181124" expanded="true" signature="35210:35314" ph="..." />
+            <marker date="1512831181124" expanded="true" signature="35231:35292" ph="..." />
+            <marker date="1512831181124" expanded="true" signature="35426:35732" ph="..." />
+            <marker date="1512831181124" expanded="true" signature="35445:35717" ph="..." />
+            <marker date="1512831181124" expanded="true" signature="35519:35697" ph="..." />
+            <marker date="1512831181124" expanded="true" signature="35559:35663" ph="..." />
+            <marker date="1512831181124" expanded="true" signature="35580:35641" ph="..." />
+            <marker date="1512831181124" expanded="true" signature="35767:36073" ph="..." />
+            <marker date="1512831181124" expanded="true" signature="35786:36058" ph="..." />
+            <marker date="1512831181124" expanded="true" signature="35860:36038" ph="..." />
+            <marker date="1512831181124" expanded="true" signature="35900:36004" ph="..." />
+            <marker date="1512831181124" expanded="true" signature="35921:35982" ph="..." />
+            <marker date="1512831181124" expanded="true" signature="36125:36390" ph="..." />
+            <marker date="1512831181124" expanded="true" signature="36144:36375" ph="..." />
+            <marker date="1512831181124" expanded="true" signature="36177:36355" ph="..." />
+            <marker date="1512831181124" expanded="true" signature="36217:36321" ph="..." />
+            <marker date="1512831181124" expanded="true" signature="36238:36299" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ysf/singletonDemo5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="220">
+          <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ysf/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+          <folding>
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
